@@ -1,5 +1,7 @@
 package k8sutils
 
+// Ref: https://github.com/kubernetes-sigs/controller-tools/blob/release-0.15/pkg/genall/genall.go#L129
+
 import (
 	"encoding/json"
 	"fmt"
